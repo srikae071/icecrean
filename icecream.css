@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.nav_items {
+  display: flex;
+  text-align: center;
+  margin-left: 155px;
+  justify-content: center;
+  padding: 10px;
+  margin-top: 45px;
+}
+
+.items {
+  margin: 25px;
+  cursor: pointer;
+  color: black;
+  opacity: 0.5;
+  justify-content: center;
+  font-size: 30px;
+}
+
+.navbar_logo_icons {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  flex-wrap: wrap;
+
+  text-align: center;
+}
+.logo_h {
+  font-size: 25px;
+  height: 30px;
+  padding-top: 15px;
+  padding-left: 25px;
+}
+
+.disclimer_button {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 35px;
+  margin: 35px;
+}
+
+.buy_now {
+  height: 45px;
+  width: 95px;
+  background-color: #bd203f;
+  border-radius: 15px;
+  color: white;
+  border-color: none;
+}
+
+.spamm {
+  color: #bd203f;
+}
+
+.disclimer_h {
+  font-size: 35px;
+  font-style: bold;
+  margin-top: 120px;
+}
+.logo {
+  height: 210px;
+  width: 302px;
+  margin-left: 45px;
+}
+
+.ict {
+  padding: 12px;
+  margin: 10px;
+  height: 10px;
+}
+.icons {
+  height: 10px;
+
+  line-height: 34px;
+
+  display: inline-block;
+  text-align: end;
+  margin-left: auto;
+  margin-top: 65px;
+}
+.total {
+  background-color: #e4bfca;
+  margin: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  min-height: 100vh;
+
+  background-size: cover;
+  border: none;
+  flex-wrap: wrap;
+}
+.buttom_image {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+}
